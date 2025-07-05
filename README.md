@@ -43,7 +43,7 @@ TrainTicketBooking/
 -    .........
 -    🧑‍💻 Author
 -    Aditya Saini
--    GitHub Profile
+-    GitHub Profile : https://github.com/adityasaini21
 -    Feel free to fork and contribute!
 
 
