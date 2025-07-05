@@ -41,10 +41,10 @@ TrainTicketBooking/
 -    Search trains
 -    Book/cancel tickets
 -    .........
-🧑‍💻 Author
-Aditya Saini
-GitHub Profile
-Feel free to fork and contribute!
+-    🧑‍💻 Author
+-    Aditya Saini
+-    GitHub Profile
+-    Feel free to fork and contribute!
 
 
 
